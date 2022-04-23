@@ -11,7 +11,7 @@ from time import sleep
 
 def h(line):
     """
-    Creates a heading html element.
+    Creates a heading html element
     <h1..6>...</h1..6}>
     """
     line = line.replace("\n", "")
